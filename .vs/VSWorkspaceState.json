@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ClientApplication",
+    "\\ClientApplication\\bin",
+    "\\ClientServer",
+    "\\ServerApplication"
+  ],
+  "SelectedNode": "\\ClientServer\\ClientServer.sln",
+  "PreviewInSolutionExplorer": false
+}
